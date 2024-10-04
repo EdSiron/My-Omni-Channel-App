@@ -1,0 +1,41 @@
+{
+  "name": "my-omnichannel-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@twilio/voice-sdk": "^2.12.1",
+    "firebase": "^10.14.0",
+    "googleapis": "^144.0.0",
+    "imap": "^0.8.17",
+    "imapflow": "^1.0.164",
+    "mailparser": "^3.7.1",
+    "next": "14.2.14",
+    "nodemailer": "^6.9.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "twilio": "^5.3.3",
+    "twilio-client": "^1.14.0"
+  },
+  "devDependencies": {
+    "@types/imap": "^0.8.40",
+    "@types/imapflow": "^1.0.19",
+    "@types/mailparser": "^3.4.4",
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.16",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/twilio": "^3.19.2",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.14",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5"
+  }
+}
