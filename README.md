@@ -1,5 +1,3 @@
-Here's an updated version of your README with emojis to make it more engaging and professional:
-
 # My-Omni-Channel-App 🚀
 This project is an Omni-Channel Communication App, designed to streamline multiple communication channels into one platform. The app allows for seamless chat, email, SMS, and voice call interactions, both inbound and outbound. This was developed as part of a demo project for an assessment.
 
